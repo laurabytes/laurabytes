@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @laurabytes
-- 🌱 I’m currently learning cybersecurity
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
+- 👋 Ola!! Eu sou a Laura Fagundes
+- 🌱 Estudando cybersecurity
+- 😄 Pronouns: Ela/Dela
 
 
 <!---
