@@ -1,5 +1,5 @@
 👋 Olá!! Eu sou a Laura Fagundes  
-🌱 Estudando cybersecurity  
+📚 Estudando cybersecurity  
 😄 Pronouns: Ela/Dela  
 
 <div>
