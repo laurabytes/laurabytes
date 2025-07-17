@@ -8,7 +8,6 @@
   </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurabytes&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/daltonmenezes/daltonmenezes/main/assets/pacman-graph.svg" />
+  <img src="https://raw.githubusercontent.com/aleen42/PersonalWebsite/master/src/components/AboutMe/Graph/pacman.svg" />
 </p>
