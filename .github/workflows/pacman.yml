@@ -1,0 +1,18 @@
+name: Pac-Man Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: platane/platane-github-action-pacman@v1.3
+        with:
+          github_user_name: laurabytes
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch_name: "main"
+          output_folder_name: "output"
