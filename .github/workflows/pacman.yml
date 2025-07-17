@@ -1,4 +1,4 @@
-name: Pac-Man Contribution Graph
+name: Generate Pacman
 
 on:
   schedule:
@@ -9,10 +9,22 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: platane/platane-github-action-pacman@v1
+      - uses: actions/checkout@v3
+
+      - uses: joshuajpro/pacman-action@v2
         with:
-          github_user_name: laurabytes
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch_name: "main"
-          output_folder_name: "output"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+
+          output_folder: 'output'
+      
+          user_name: 'laurabytes'
+
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+    
+          build_dir: 'output'
+ 
+          target_branch: 'output'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
