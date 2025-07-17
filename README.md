@@ -9,6 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurabytes&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laurabytes&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daltonmenezes/daltonmenezes/main/assets/pacman-graph.svg" />
+</p>
