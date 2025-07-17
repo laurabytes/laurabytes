@@ -2,6 +2,7 @@ name: Generate Pacman
 
 on:
   schedule:
+   
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
@@ -11,20 +12,16 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: joshuajpro/pacman-action@v2
+      - uses: joshuajpro/pacman-action@v3
         with:
           gh_token: ${{ secrets.GITHUB_TOKEN }}
-
           output_folder: 'output'
-      
           user_name: 'laurabytes'
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
-    
           build_dir: 'output'
- 
           target_branch: 'output'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
