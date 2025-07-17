@@ -10,5 +10,5 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/daltonmenezes/daltonmenezes/main/assets/pacman-graph.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laurabytes&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
