@@ -6,7 +6,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por arquitetar e
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na faculdade Senac Rio
 - 💻 **Técnica em Informática** pela PUC
-- 📚 React, Node.js, Segurança Ofensiva e desenvolvimento full stack.
+- 📚 Estudando React, Node.js, Segurança Ofensiva e desenvolvimento full stack.
 - 🛡️ Minha grande área de interesse é a **Cibersegurança**, onde aplico meu conhecimento de ads para realizar análises de vulnerabilidade, testes de penetração e fortalecer as defesas de uma aplicação (Blue Team).
 <div align="center">
   <a href="https://github.com/laurabytes">
