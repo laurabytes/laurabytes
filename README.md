@@ -8,8 +8,4 @@
   </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurabytes&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laurabytes/laurabytes/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laurabytes/laurabytes/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laurabytes/laurabytes/output/pacman-contribution-graph.svg">
-</picture>
+![Pacman Contribution Graph](https://raw.githubusercontent.com/daltonmenezes/daltonmenezes/main/assets/pacman-graph.svg)
