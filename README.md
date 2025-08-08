@@ -1,6 +1,6 @@
 - ## 🛡️ Olá, eu sou a Laura!
 
-Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por arquitetar e desenvolver soluções que não sejam apenas funcionais e eficientes, mas também **seguras desde sua concepção**. Gosto de trabalhar tanto na construção da lógica de sistemas (**Backend**) quanto na criação de interfaces intuitivas para o usuário (**Frontend**), unindo os dois mundos para entregar projetos completos e seguros.
+Estudante de Análise e Desenvolvimento de Sistemas, em constante aprendizado </3. 
 
 ## Sobre mim
 
