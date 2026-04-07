@@ -7,7 +7,6 @@ Estudante de Análise e Desenvolvimento de Sistemas, em constante aprendizado </
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na faculdade Senac Rio
 - 💻 **Técnica em Informática** pela PUC
 - 📚 Estagiaria de Suporte e Redes de computadores.
-- 🩷 Minha grande área de interesse é a **Cibersegurança**
 <div align="center">
   <a href="https://github.com/laurabytes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laurabytes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
