@@ -1,12 +1,13 @@
 - ## 🛡️ Olá, eu sou a Laura!
 
-Estudante de Análise e Desenvolvimento de Sistemas, em constante aprendizado </3. 
+Aqui compartilho projetos, estudos e coisas que venho construindo na área de tecnologia, em constante aprendizado </3. 
 
 ## Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na faculdade Senac Rio
+- 🎓 **Mestranda em Sistemas e Computação** pelo Instituto Militar de Engenharia (IME)
+- 🎓 **Graduada em Análise e Desenvolvimento de Sistemas** pela Faculdade Senac Rio
 - 💻 **Técnica em Informática** pela PUC
-- 📚 Estagiaria de Suporte e Redes de computadores.
+- 🌐 Experiência em **desenvolvimento de software, infraestrutura de TI e redes**
 <div align="center">
   <a href="https://github.com/laurabytes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laurabytes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
